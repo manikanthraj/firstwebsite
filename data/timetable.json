@@ -1,0 +1,5922 @@
+[
+  {
+    "section": "CA",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(JK)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(VB)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PKS)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(AH)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "FE",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(DB)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(MMG)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(NSY)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(VB)"
+        },
+        {
+          "subject": "DAV LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "WED": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(AH)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(DB)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(MMG)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "FME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(NSY)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(VB)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(AH)"
+        },
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "FME",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(NSY)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(VB)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(PKS)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(DB)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(MMG)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "CB",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "10:00",
+            "end": "12:00"
+          },
+          "faculty": "(USP)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(MR)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SGS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(DS)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "FME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SS)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(MR)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(GRK)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(DS)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(ASK)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SS)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(DS)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(GRK)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SGS)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(MR)"
+        },
+        {
+          "subject": "DAV LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "FME",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SS)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(GRK)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "FE",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SGS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(DS)"
+        },
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "10:30",
+            "end": "12:30"
+          },
+          "faculty": "(ASK)"
+        },
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ]
+    }
+  },
+  {
+    "section": "CC",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(IKP)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SR)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(AGP)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(IKP)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(BHA)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(JK)"
+        },
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "14:00",
+            "end": "16:00"
+          },
+          "faculty": "(GH)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "13:00",
+            "end": "15:00"
+          },
+          "faculty": "(HMG)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(IKP)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(BHA)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(JK)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SR)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(AGP)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(BHA)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(JK)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SR)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(AGP)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(HMG)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(IKP)"
+        },
+        {
+          "subject": "DAV LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ]
+    }
+  },
+  {
+    "section": "CD",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(BT)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SBR)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(ISM)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(PP)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(NKT)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(NAK)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(BT)"
+        },
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ],
+      "WED": [
+        {
+          "subject": "DAV LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(ISM)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PP)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(NKT)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "FME",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(NAK)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(BT)"
+        },
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "10:30",
+            "end": "12:30"
+          },
+          "faculty": "(SBR)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(MBRN)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(NAK)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(BT)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(ISM)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PP)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(NKT)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "CE",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SKS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(ATM)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(RA)"
+        },
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "FME",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(RM)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SKG)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(DK)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(RA)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(RM)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SKG)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(ATM)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "10:00",
+            "end": "12:00"
+          },
+          "faculty": "(HSA)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(DK)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(ATM)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "FE",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SKG)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(DK)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(ATM)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(RA)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "DAV LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "13:00",
+            "end": "15:00"
+          },
+          "faculty": "(SKS)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(RM)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "CF",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "FME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(KS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(ALK)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SG)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "DAV LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "13:00",
+            "end": "15:00"
+          },
+          "faculty": "(BSK)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SAK)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(ALK)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SG)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(PKP)"
+        },
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ],
+      "THU": [
+        {
+          "subject": "FE",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SAK)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PKP)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(KS)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SG)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SAK)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PKP)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(ALK)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(PKR)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(KS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(ALK)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(BSK)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "CG",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(DR)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(NM)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SME)"
+        },
+        {
+          "subject": "DAV LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(MDS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SME)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(MDD)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "FE",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(NM)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(GV)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SME)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(MDS)"
+        },
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ],
+      "THU": [
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(MDD)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(GV)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(DR)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SME)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(MDD)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(GV)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "10:00",
+            "end": "12:00"
+          },
+          "faculty": "(JH)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(NM)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(MDS)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "CH",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SN)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SNU)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(ANP)"
+        },
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "14:00",
+            "end": "16:00"
+          },
+          "faculty": "(CSK)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "DAV LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PMP)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(JM)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(AS)"
+        },
+        {
+          "subject": "FE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PMP)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SNU)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(JM)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SNU)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SN)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "FE",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(PMP)"
+        },
+        {
+          "subject": "FME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(JM)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SNU)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(ANP)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SN)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(ANP)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(AS)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "CK",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "13:00",
+            "end": "15:00"
+          },
+          "faculty": "(STC)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(MG)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "BME",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(ARH)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SMV)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(NKK)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(PPS)"
+        },
+        {
+          "subject": "EG – II (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "WED": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(MG)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(ARH)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SMV)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(NKK)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(PPS)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(STC)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(MG)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "10:00",
+            "end": "12:00"
+          },
+          "faculty": "(JPK)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(NKK)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(PPS)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(MG)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(ARH)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SMV)"
+        },
+        {
+          "subject": "PHY LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": "(NKK)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "CL",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "PHY LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": "(VM)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(RN)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SGS)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(RD)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(VM)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SK)"
+        },
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "10:30",
+            "end": "12:30"
+          },
+          "faculty": "(DBS)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "10:00",
+            "end": "12:00"
+          },
+          "faculty": "(SA)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(DBS)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(VM)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SK)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "BME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(RN)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SGS)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(RD)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SK)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(RN)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SGS)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(RD)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SK)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(VM)"
+        },
+        {
+          "subject": "EG – II (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ]
+    }
+  },
+  {
+    "section": "CM",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "EG – II",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(BVR)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SMN)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(CM)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(SKS)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(RBJ)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SMN)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "BME",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(ABVB)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SKS)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(BVR)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "BE",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(RBJ)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SMN)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(ABVB)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(CM)"
+        },
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "14:00",
+            "end": "16:00"
+          },
+          "faculty": "(VM)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "PHY LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": "(BVR)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(RBJ)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SMN)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "BME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(ABVB)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(CM)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(BVR)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "CN",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "BE",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(RV)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(DN)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(JP)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(DN)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(KBM)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(RV)"
+        },
+        {
+          "subject": "PHY LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": "(DN)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(DVF)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(JP)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(DN)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(KBM)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(ASK)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(DN)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(JP)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(ASK)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(RV)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(DN)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(JP)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(DN)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(KBM)"
+        },
+        {
+          "subject": "EG – II (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ]
+    }
+  },
+  {
+    "section": "CO",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(KBP)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(AU)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(GHJ)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(SYM)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SPS)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(DBS)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(GM)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(GHJ)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SPS)"
+        },
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "10:30",
+            "end": "12:30"
+          },
+          "faculty": "(DBS)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "PHY LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": "(GM)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(GM)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(KBP)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(AU)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(GM)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(KBP)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(GHJ)"
+        },
+        {
+          "subject": "EG – II (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "BE",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(AU)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(GHJ)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SPS)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "CP",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SBK)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SVS)"
+        },
+        {
+          "subject": "EG – II (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(MRK)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SVS)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(KMV)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "BE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SS)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(MRK)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SVS)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(GB)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(KMV)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(DR)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SBK)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SVS)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(KMV)"
+        },
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "10:30",
+            "end": "12:30"
+          },
+          "faculty": "(DR)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "PHY LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": "(PKP)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SBK)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SS)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(MRK)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "CQ",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(GMS)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(RL)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(MPK)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(RP)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "10:00",
+            "end": "12:00"
+          },
+          "faculty": "(GBM)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(RP)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(BSK + HMG)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "BME",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(RL)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SRV)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(RP)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(GMS)"
+        },
+        {
+          "subject": "PHY LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": "(MDD)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "BE",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SRV)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(GMS)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(RL)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(BSK + HMG)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(GMS)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(MPK)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "EG – II",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(MPK)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SRV)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "CR",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "BE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(MK)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(KP)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SH)"
+        },
+        {
+          "subject": "PHY LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": "(KP)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "EG – II",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(DL)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(KN)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SH)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(DL)"
+        },
+        {
+          "subject": "BME",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(KN)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(MK)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "ENG (P)",
+          "time": {
+            "start": "13:00",
+            "end": "15:00"
+          },
+          "faculty": "(STC)"
+        },
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(KP)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "BME",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(KN)"
+        },
+        {
+          "subject": "ENG (L)",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(STC)"
+        },
+        {
+          "subject": "BE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(MK)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SH)"
+        },
+        {
+          "subject": "WORKSHOP",
+          "time": {
+            "start": "14:00",
+            "end": "16:00"
+          },
+          "faculty": "(AH)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "PHY",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(KP)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SH)"
+        },
+        {
+          "subject": "MOS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(DL)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PA",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "DAV LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SHK)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PKP)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SUJ)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(PPD)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(BRS)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(VB)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "CAEG LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SUJ)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PPD)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(BRS)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(BRS)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(VB)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SHK)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SUJ)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(VB)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SHK)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(PKP)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PPD)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(BRS)"
+        },
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ]
+    }
+  },
+  {
+    "section": "PB",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(HS)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PCP)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(PKB)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(MNK)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(MCB)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(HS)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(PCP)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SC)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(MNK)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(MCB)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(HS)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PCP)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(PKB)"
+        },
+        {
+          "subject": "DAV LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "CAEG LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(MCB)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(HS)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(MNK)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(PKB)"
+        },
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "10:30",
+            "end": "12:30"
+          },
+          "faculty": "(SC)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PC",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "CAEG LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(KK)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SA)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(AN)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(KK)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(MPK)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(KB)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "13:00",
+            "end": "15:00"
+          },
+          "faculty": "(TT)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(KK)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(MPK)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(KB)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SA)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(AN)"
+        },
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "DAV LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(MPK)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(KB)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SA)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(AN)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(TT)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(KK)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PD",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SD)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(RB)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SBK)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(PKE)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(ARS)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PBS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SD)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "DAV LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SBK)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PKE)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(ARS)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(PBS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SD)"
+        },
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "10:30",
+            "end": "12:30"
+          },
+          "faculty": "(RB)"
+        },
+        {
+          "subject": "CAEG LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PBS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SD)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SBK)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PKE)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(ARS)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PE",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(ML)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(DC)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(DN)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SYN)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(DN)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(PD)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(DC)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SYN)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(DN)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(LKP)"
+        },
+        {
+          "subject": "DAV LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "THU": [
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(PD)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(LKP)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(DC)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(DN)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PD)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(LKP)"
+        },
+        {
+          "subject": "CAEG LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "13:00",
+            "end": "15:00"
+          },
+          "faculty": "(ML)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SYN)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PF",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SKV)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SGS)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PJ)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(PPD)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "CAEG LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "13:00",
+            "end": "15:00"
+          },
+          "faculty": "(AS)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SLN)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(AS)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PPD)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SKV)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "DAV LAB",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SLN)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SKV)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SGS)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SLN)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SKV)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(PJ)"
+        },
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SGS)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PJ)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(PPD)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PG",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(VU)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(RGP)"
+        },
+        {
+          "subject": "CAEG LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(PKP)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SK)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(VH)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(RGP)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(PKP)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SK)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SD)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(VH)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SD)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(VU)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SK)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(VH)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SD)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(RGP)"
+        },
+        {
+          "subject": "DAV LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(RGP)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(PKP)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PH",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(MBS)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(TAN)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SHS)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(BS)"
+        },
+        {
+          "subject": "DAV LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SHS)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SPU)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(SSR)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(TAN)"
+        },
+        {
+          "subject": "CAEG LAB (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "THU": [
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SPU)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(MBS)"
+        },
+        {
+          "subject": "IOOP",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(TAN)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SHS)"
+        },
+        {
+          "subject": "FEE",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SPU)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(MBS)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(BS)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "IOOP LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SHS)"
+        },
+        {
+          "subject": "EMSB",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(BS)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SSR)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PK",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "13:00",
+            "end": "15:00"
+          },
+          "faculty": "(DGS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(BL)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "BET",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(PK)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(NSS)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SD)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SKM)"
+        },
+        {
+          "subject": "EG – II (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "WED": [
+        {
+          "subject": "PSUC LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(BL)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PK)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(NSS)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SD)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SKM)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(BL)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(DGS)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SD)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SKM)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(BL)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PK)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(NSS)"
+        },
+        {
+          "subject": "CHEM LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": "(SA)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PL",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "PSUC LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(DMS)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PKP)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SNU)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(RP)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(NNK)"
+        },
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "10:30",
+            "end": "12:30"
+          },
+          "faculty": "(TT)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "BET",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SNU)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(RP)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(NNK)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(NNK)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(DMS)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PKP)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SNU)"
+        },
+        {
+          "subject": "EG – II (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "CHEM LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(TT)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(DMS)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(PKP)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(RP)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(NNK)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PM",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "BET",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(AJV)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(PS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(ARD)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(SRH)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(RBS)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(PB)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "EG – II",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(ARD)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SRH)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(PB)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(RBS)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(AJV)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(PS)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(ARD)"
+        },
+        {
+          "subject": "CHEM LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": "(SYN)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "PSUC LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(RBS)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(AJV)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(PB)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(ARD)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(PS)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PN",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(RS)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(NP)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(VNR)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SAR)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(BSH)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(RS)"
+        },
+        {
+          "subject": "PSUC LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ],
+      "WED": [
+        {
+          "subject": "CHEM LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": "(MNK)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(VNR)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SAR)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(BSH)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(BS)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(NP)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(BSH)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "EG – II",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(BS)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(RS)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(BSH)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(VNR)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SAR)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(NP)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PO",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(FK)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(VNR)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SKC)"
+        },
+        {
+          "subject": "PSUC LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "BET",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(LJ)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(DGS)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(ACS)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(SKC)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(LJ)"
+        },
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "10:30",
+            "end": "12:30"
+          },
+          "faculty": "(DGS)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "EG – II",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(ACS)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(FK)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(VNR)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(ACS)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(FK)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(SKC)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "CHEM LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": "(FK)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(VNR)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SKC)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(LJ)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PP",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(NS)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(SSA)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(KAB)"
+        },
+        {
+          "subject": "CHEM LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": "(PB)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(MM)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(KAB)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(HNS)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SSA)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(MM)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(KAB)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "EG – II",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(HNS)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SSR)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(NS)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(KAB)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(HNS)"
+        },
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "10:30",
+            "end": "12:30"
+          },
+          "faculty": "(SSR)"
+        },
+        {
+          "subject": "PSUC LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": ""
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(NS)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(SSA)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(MM)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PQ",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "BET",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(SID)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(HK)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(MPY)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "CHEM LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": "(SG)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(PK)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(MPY)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SH)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(HK)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(PK)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(MPY)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(RAJ)"
+        },
+        {
+          "subject": "EG – II (2:00 – 5:00 PM)",
+          "time": {
+            "start": "14:00",
+            "end": "17:00"
+          },
+          "faculty": ""
+        }
+      ],
+      "THU": [
+        {
+          "subject": "PSUC LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(RAJ)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(SID)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "08:00",
+            "end": "10:00"
+          },
+          "faculty": "(SH)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(RAJ)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(HK)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "BET",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(SID)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(HK)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(PK)"
+        }
+      ]
+    }
+  },
+  {
+    "section": "PR",
+    "schedule": {
+      "MON": [
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "08:00",
+            "end": "09:00"
+          },
+          "faculty": "(NKM)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(RD)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(VKJ)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(KLD)"
+        }
+      ],
+      "TUE": [
+        {
+          "subject": "PSUC LAB",
+          "time": {
+            "start": "09:00",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(PLB)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(KLD)"
+        },
+        {
+          "subject": "EVS (L)",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(BKT)"
+        }
+      ],
+      "WED": [
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(PLB)"
+        },
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(KLD)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(NKM)"
+        }
+      ],
+      "THU": [
+        {
+          "subject": "EVS (P)",
+          "time": {
+            "start": "13:00",
+            "end": "15:00"
+          },
+          "faculty": "(BKT)"
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(RD)"
+        }
+      ],
+      "FRI": [
+        {
+          "subject": "MATHS",
+          "time": {
+            "start": "09:00",
+            "end": "10:00"
+          },
+          "faculty": "(KLD)"
+        },
+        {
+          "subject": "BIO",
+          "time": {
+            "start": "10:30",
+            "end": "11:30"
+          },
+          "faculty": "(NKM)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "11:30",
+            "end": "12:30"
+          },
+          "faculty": "(VKJ)"
+        },
+        {
+          "subject": "CHEM LAB",
+          "time": {
+            "start": "14:00",
+            "end": "16:30"
+          },
+          "faculty": "(PPD)"
+        }
+      ],
+      "SAT": [
+        {
+          "subject": "EG – II",
+          "time": {
+            "start": "08:30",
+            "end": "11:30"
+          },
+          "faculty": ""
+        },
+        {
+          "subject": "PSUC",
+          "time": {
+            "start": "13:00",
+            "end": "14:00"
+          },
+          "faculty": "(RD)"
+        },
+        {
+          "subject": "BET",
+          "time": {
+            "start": "14:00",
+            "end": "15:00"
+          },
+          "faculty": "(VKJ)"
+        },
+        {
+          "subject": "CHEM",
+          "time": {
+            "start": "15:30",
+            "end": "16:30"
+          },
+          "faculty": "(PLB)"
+        }
+      ]
+    }
+  }
+]
