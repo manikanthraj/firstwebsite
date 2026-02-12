@@ -82,6 +82,14 @@ export async function GET(request: Request) {
             await AdminModel.insertMany(admins.map(regNo => ({ regNo })));
         }
 
+        // 5. Students (CRITICAL FIX: Was missing)
+        const studentsPath = path.join(DATA_DIR, 'students.json');
+        if (fs.existsSync(studentsPath)) {
+            const students = JSON.parse(fs.readFileSync(studentsPath, 'utf8'));
+            await StudentModel.deleteMany({});
+            await StudentModel.insertMany(students);
+        }
+
         return NextResponse.json({ success: true, message: 'Database seeded successfully!' });
     } catch (error: any) {
         return NextResponse.json({ success: false, error: error.message }, { status: 500 });
