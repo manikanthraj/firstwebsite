@@ -12,7 +12,7 @@ import path from 'path';
 // But valid Vercel deployment requires `includeFiles` in `vercel.json` sometimes.
 // Actually, simpler: I'll try to read via `fs`.
 
-export async function POST(request: Request) {
+export async function GET(request: Request) {
     // Basic security: Check for a secret header or just rely on Admin Code for now? 
     // For simplicity in this "rescue" mode, we'll check the Admin Secret logic or just open it for the initial setup.
     // Let's use a query param ?secret=CampusSync2026
