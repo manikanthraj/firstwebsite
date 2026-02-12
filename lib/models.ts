@@ -52,7 +52,7 @@ const AdminSchema = new Schema({
 // 5. Student (For future expansion or if we move students.json to DB)
 const StudentSchema = new Schema({
     regNo: { type: String, required: true, unique: true },
-    password: { type: String, required: true },
+    password: { type: String }, // Optional for now (RegNo auth)
     name: { type: String },
     section: { type: String }
 });
